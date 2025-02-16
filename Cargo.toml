@@ -1,0 +1,8 @@
+[package]
+name = "r-l1"
+version = "0.1.0"
+edition = "2021"
+authors = ["Nyando anomalous254@gmail.com"]
+
+[dependencies]
+rand = "0.9.0"
